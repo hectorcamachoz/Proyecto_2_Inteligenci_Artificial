@@ -29,7 +29,7 @@ Base de datos test.csv:
 Cuenta con todas las variables exceptuando la variable Transported, ya que es la variable de salida.
 
 Archivos que podras encontrar:
-- [Reporte](P_P2_594557.html))
+- [Reporte](P_P2_594557.html)
 - [Reporte en ipynb](P_P2_594557.ipynb)
 - [Archivo de resultados generado con modelo RF](results_(2).csv)
 - [Archivo de resultados generado con modelo Boosting](results_boost_(1).csv)
