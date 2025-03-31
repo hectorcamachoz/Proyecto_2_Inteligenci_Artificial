@@ -1,4 +1,4 @@
-# Proyecto_2_Inteligenci_Artificial
+# Proyecto_2_Inteligencia_Artificial
 
 En este proyecto se utilizaran dos bases de datos proporcionadas por Kaggle especificamente de la competencia ["Spaceship Titanic"](https://www.kaggle.com/competitions/spaceship-titanic/overview). El objetivo de este proyecto es realizar algunos de los multiples modelos vistos en clase, como LDA, QDA, Regresion Logistica, Árboles de decisión, bagging, random forests, boosting, y seleccionar cual es el mejor, el resultado que se obtenga se mandara a la competencia de Kaggle. La variable de salida sera Transported que tiene como valores True o False.
 
